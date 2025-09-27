@@ -6,6 +6,7 @@ export default defineUserConfig({
     lang: 'en-US',
 
     title: 'Tracker Tutorials',
+    base: '/tracker-tutorials/',
 
     theme: defaultTheme({
         logo: 'images/tracker-logo.webp',
